@@ -1,7 +1,28 @@
 <h1 align="center">Hi 👋, I'm Vikranth KA</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
+<a href="https://github.com/VikranthKA">
+  <img src="github_logo.png" alt="GitHub Logo" width="20" height="20">
+  https://github.com/VikranthKA
+</a><br>
+
+<a href="https://linkedin.com/in/vikranth-ka-01b4702b3">
+  <img src="linkedin_logo.png" alt="LinkedIn Logo" width="20" height="20">
+  https://linkedin.com/in/vikranth-ka-01b4702b3
+</a><br>
+
+<a href="tel:7899193268">
+  <img src="phone_logo.png" alt="Phone Logo" width="20" height="20">
+  7899193268
+</a><br>
+
+<a href="mailto:vikranthka@gmail.com">
+  <img src="email_logo.png" alt="Email Logo" width="20" height="20">
+  vikranthka@gmail.com
+</a>
+
+</h3>
 <p align="left">
 </p>
 
