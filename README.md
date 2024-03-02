@@ -2,16 +2,18 @@
 <h1 align="center">Hi 👋, I'm Vikranth KA</h1>
 <p align="left">🧐 Passionate about full-stack development.</p>
 <p align="left">📚 Constantly expanding my knowledge in IT through continuous learning and exploration.</p>
-<p align="left">📫 You can contact me via email at <a href="mailto:vikranthka@gmail.com">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
+<p align="left">📫 You can contact me via email at <a href="mailto:vikranthka@gmail.com">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /> 
 </a> to discuss collaborations, job opportunities, or just to chat and exchange ideas about web development!</p>
 <p align="left">You can also find me on:</p>
 <div align="left">
-  <a href="https://github.com/VikranthKA">
-    
-  </a>
+
   <a href="https://linkedin.com/in/vikranth-ka-01b4702b3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+      <a href="https://github.com/VikranthKA">
+    
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  </a>
 
   </a>
 </div>
