@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm Vikranth KA</h1>
 <p align="left">🧐 Passionate about full-stack development.</p>
 <p align="left">📚 Constantly expanding my knowledge in IT through continuous learning and exploration.</p>
-<p align="left">📫 You can contact me via email at <a href="mailto:vikranthka@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="left">📫 You can contact me via email at <a href="mailto:vikranthka@gmail.com">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
 </a> to discuss collaborations, job opportunities, or just to chat and exchange ideas about web development!</p>
-<p align="center">You can also find me on:</p>
-<div align="center">
+<p align="left">You can also find me on:</p>
+<div align="left">
   <a href="https://github.com/VikranthKA">
-    Github
+    
   </a>
   <a href="https://linkedin.com/in/vikranth-ka-01b4702b3">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+
   </a>
 </div>
 
