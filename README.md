@@ -1,6 +1,8 @@
 <img src="https://camo.githubusercontent.com/3e95421342fa70af5fd6d50e59591da8c865e5a76432ab429286ce4d1d49ff8c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d686561646572"/>
 <h1 align="center">Hi 👋, I'm Vikranth KA</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+🧐 Passionate about full-stack development.
+📚 Constantly expanding my knowledge in IT through continuous learning and exploration.
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/VikranthKA">
