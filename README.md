@@ -56,8 +56,9 @@
 
 ---
 
-### Visitor Count:
-<div align="center">
-![Profile views](https://komarev.com/ghpvc/?username=VikranthKA&label=Profile%20views&color=0e75b6&style=flat)
+### Visitor Count
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VikranthKA&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
