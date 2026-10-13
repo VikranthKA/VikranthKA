@@ -8,9 +8,7 @@
 <div align="center">
   <p align="center">You can contact me on:</p>
   
-  <a href="https://linkedin.com/in/vikranth-ka-01b4702b3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn Logo" />
-  </a>
+
 
   <a href="https://github.com/VikranthKA" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
