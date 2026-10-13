@@ -20,9 +20,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="Gmail Logo" />
   </a>
 
-  <a href="https://personal-portfolio-eosin-xi.vercel.app/" target="_blank">
-    Portfolio
-  </a>
+
 </div>
 
 ---
